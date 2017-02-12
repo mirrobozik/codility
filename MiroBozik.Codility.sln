@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MiroBozik.Codility", "src\MiroBozik.Codility\MiroBozik.Codility.xproj", "{4C107820-FB31-41B0-B1F3-73443A883FAE}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "BinaryGap", "src\BinaryGap\BinaryGap.xproj", "{4C107820-FB31-41B0-B1F3-73443A883FAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
